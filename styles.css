@@ -1,0 +1,39 @@
+.thetitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.copyables {
+    background-color: olive;
+    align-self: center;
+    font: message-box;
+    font-size: large;
+    cursor: pointer;
+}
+
+.body {
+    background-color: khaki;
+}
+
+.scriptcontainer {
+    align-self: 50%;
+    display: grid;
+}
+
+.subtitles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.myemail {
+    font: italic;
+    font-size: larger;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: center;
+}
